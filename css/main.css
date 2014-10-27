@@ -11,3 +11,9 @@ body {
 form input[name='occupationOther'] {
     display: none;
 }
+
+.invalid {
+	border-color: RED;
+	border-style: solid;
+	border-width: 1px;
+}
